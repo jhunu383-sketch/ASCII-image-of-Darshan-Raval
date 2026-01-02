@@ -49,7 +49,7 @@ This project preserves the **original image colors**, enhances **facial features
 ASCII-Art-Project/
 │
 ├── darshan.jpg          # Input image (can be replaced)
-├── ascii_art.py         # Python code
+├── ascii_art.ipynb         # Python code
 ├── README.md            # Project documentation
 ```
 
